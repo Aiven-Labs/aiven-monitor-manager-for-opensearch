@@ -112,8 +112,6 @@ in project or user root where they will be read at runtime. The format is `VARIA
 webhook is not configured. AMM currently supports only Slack for notifications. You can either
  configure a https endpoint directly or define an environmental variable that holds the https address.
 
-![img.png](doc-images/slack-message.png)
-
 ### Instances
 
 AMM supports an arbitrary amount of OpenSearch instances to be configured and managed centrally. Each instance has it's
