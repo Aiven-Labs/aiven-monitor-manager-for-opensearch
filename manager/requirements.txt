@@ -1,0 +1,14 @@
+certifi==2023.7.22
+charset-normalizer==3.1.0
+deepdiff==6.3.0
+chevron==0.14.0
+idna==3.4
+markdown-it-py==2.2.0
+mdurl==0.1.2
+ordered-set==4.1.0
+Pygments==2.15.0
+python-dotenv==1.0.0
+requests==2.31.0
+rich==13.3.4
+urllib3==1.26.18
+PyYAML==6.0
