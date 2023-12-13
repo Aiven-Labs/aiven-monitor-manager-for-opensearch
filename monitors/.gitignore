@@ -1,0 +1,6 @@
+.*cache
+.local-test*
+local-test*/**
+.idea
+.env
+settings.*
